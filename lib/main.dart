@@ -9,7 +9,7 @@ import 'package:video_calling_flutter_app/theme/app_colors.dart';
 
 import 'screens/splash_screen.dart';
 
-//adding this line for git activity
+//changing this line for git activity
 
 void main() {
   runApp(const VideoCallingApp());
